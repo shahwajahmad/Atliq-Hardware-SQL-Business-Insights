@@ -1,3 +1,5 @@
+![SQL Project Banner](https://raw.githubusercontent.com/shahwajahmad/shahwajahmad/main/image.png)
+
 **# Atliq-Hardware-SQL-Business-Insights**
 
 ## Project Overview
