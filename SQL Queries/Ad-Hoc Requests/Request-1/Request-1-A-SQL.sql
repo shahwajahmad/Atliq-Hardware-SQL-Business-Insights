@@ -1,5 +1,5 @@
 #  Provide a report with all the unique product counts for each  segment  and 
-#sort them in descending order of product counts. The final output contains 
+#sort them in descending order of product counts. The final output contains  
 SELECT 
       segment ,
       count(distinct product_code) as product_count
