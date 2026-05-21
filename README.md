@@ -8,7 +8,7 @@ This project is part of the Codebasics SQL Resume Challenge in the Consumer Good
 The objective of this project is to analyze AtliQ Hardware business data using SQL and generate meaningful business insights to support data-driven decision-making.
 
 The analysis focuses on:
-- Sales Performance
+- Sales Performance 
 - Product Analysis
 - Customer Insights
 - Channel Contribution
