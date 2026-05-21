@@ -87,6 +87,10 @@ Contains the final business presentation PDF.
 Shahwaj Ahmad  
 Aspiring Data Analyst
 
+## Project Presentation
+
+🎥 YouTube Video Presentation: https://youtu.be/FaW81iA50kk
+
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/shahwaj-ahmad-193168232/
